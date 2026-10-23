@@ -4,6 +4,25 @@ Sistem point of sale (POS) dan manajemen operasional supermarket multi-cabang
 berbasis Laravel. Aplikasi ini menggunakan antarmuka berbahasa Indonesia,
 mata uang IDR, dan zona waktu `Asia/Jakarta`.
 
+Repository: https://github.com/0xyz-exe/big-market-pos
+
+## Screenshots
+
+### Antarmuka Kasir POS
+![Antarmuka kasir POS](docs/screenshots/01_pos_checkout.png)
+
+### Manajemen Stok & Katalog Produk
+![Katalog produk](docs/screenshots/02_products.png)
+
+### Laporan Penjualan & Laba Kotor
+![Laporan penjualan](docs/screenshots/03_sales_report.png)
+
+### Manajemen Biaya Operasional
+![Biaya operasional](docs/screenshots/04_expenses.png)
+
+### Autentikasi Staf
+![Login staf](docs/screenshots/05_login.png)
+
 > **Status proyek:** Fitur inti autentikasi staf, isolasi cabang, katalog
 > produk, penyesuaian stok, checkout tunai, struk, laporan penjualan, serta
 > pencatatan dan persetujuan biaya operasional sudah tersedia. Fitur
